@@ -1,0 +1,7 @@
+print:"Hello, World!";
+print:name;
+print:name;
+loop(5)
+{
+	print:"loop";	
+};
